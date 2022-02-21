@@ -1,0 +1,9 @@
+.container {
+  justify-content: space-around;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
